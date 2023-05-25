@@ -1,13 +1,15 @@
-<h1> Movie Website</h1>
+# Movie Website
 
-This project is a website designed using HTML5 and CSS3. 
-Movie scrolling and the day-night mode feature were implemented using JavaScript.
-Full Responsive
+## What I Practiced
 
-<h2> Technologies</h2>
+- Website design using HTML5 and CSS3.
+- Movie slider and light-dark mode using JavaScript.
+- Full Responsive.
 
-HTML5, CSS3 and JavaScript
+### `Deploy`
 
-<h2> Screen Gif</h2>
+https://logo-movie-website.netlify.app/
+
+### `Screen`
 
 ![](screen.gif)
